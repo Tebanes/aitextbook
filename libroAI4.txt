@@ -142,3 +142,102 @@ model.fit(X, y)
 X_test = np.array([[6], [7]])
 predictions = model.predict(X_test)
 print(f"Predicciones: {predictions}")
+
+6.2 Principales bibliotecas
+
+TensorFlow y Keras (Google)
+
+PyTorch (Meta)
+
+scikit-learn (ML clásico)
+
+Hugging Face Transformers (NLP)
+
+OpenCV (visión por computadora)
+
+Pandas y NumPy (manipulación de datos)
+
+6.3 Plataformas en la nube
+
+AWS SageMaker
+
+Google Cloud AI Platform
+
+Azure Machine Learning
+
+IBM Watson
+
+CAPÍTULO 7: TENDENCIAS FUTURAS
+
+7.1 IA Generativa
+
+Los modelos generativos como DALL-E, Midjourney y Stable Diffusion pueden crear imágenes a partir de texto. La IA generativa está transformando la creatividad y el diseño.
+
+7.2 IA Multimodal
+
+Modelos que procesan múltiples tipos de datos (texto, imágenes, audio, video) simultáneamente. GPT-4V es un ejemplo de modelo multimodal.
+
+7.3 IA en el edge
+
+Ejecutar modelos de IA en dispositivos locales (smartphones, IoT) sin depender de la nube, mejorando privacidad y latencia.
+
+7.4 AGI (Inteligencia General Artificial)
+
+El objetivo a largo plazo: sistemas con inteligencia comparable a la humana, capaces de realizar cualquier tarea intelectual.
+
+CONCLUSIÓN
+
+La Inteligencia Artificial está redefiniendo nuestra relación con la tecnología. Desde asistentes virtuales hasta vehículos autónomos, su impacto es innegable. Comprender sus fundamentos, aplicaciones y desafíos éticos es esencial para navegar el futuro. A medida que la tecnología avanza, la colaboración entre humanos y máquinas abrirá posibilidades inimaginables.
+
+GLOSARIO TÉCNICO
+
+Algoritmo: conjunto de instrucciones para resolver un problema
+
+API: interfaz de programación de aplicaciones
+
+Big Data: conjuntos de datos masivos
+
+Cloud Computing: computación en la nube
+
+Dataset: conjunto de datos
+
+Epoch: una pasada completa por todos los datos de entrenamiento
+
+Feature: característica o atributo de los datos
+
+Gradient Descent: algoritmo de optimización
+
+Hyperparameter: parámetro configurable antes del entrenamiento
+
+Inference: fase de predicción del modelo entrenado
+
+Loss function: función que mide el error del modelo
+
+Overfitting: sobreajuste a los datos de entrenamiento
+
+Underfitting: modelo demasiado simple que no captura patrones
+
+REFERENCIAS Y RECURSOS
+
+Libros recomendados:
+
+"Deep Learning" de Ian Goodfellow
+
+"Pattern Recognition and Machine Learning" de Christopher Bishop
+
+"The Hundred-Page Machine Learning Book" de Andriy Burkov
+
+
+Cursos online:
+
+Coursera: Machine Learning de Andrew Ng
+
+fast.ai: Practical Deep Learning
+
+Google AI: Machine Learning Crash Course
+
+=== FIN DEL CONTENIDO GENERADO POR IA ===
+=== TEXTO SINTÉTICO CON FINES EDUCATIVOS ===
+=== CARACTERÍSTICAS: TÉCNICO, MODERNO, ESTRUCTURADO ===
+
+THE END OF THE PROJECT GUTENBERG EBOOK GUÍA COMPLETA DE INTELIGENCIA ARTIFICIAL Y MACHINE LEARNING
