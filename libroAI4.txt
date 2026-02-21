@@ -227,7 +227,6 @@ Libros recomendados:
 
 "The Hundred-Page Machine Learning Book" de Andriy Burkov
 
-
 Cursos online:
 
 Coursera: Machine Learning de Andrew Ng
